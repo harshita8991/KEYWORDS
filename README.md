@@ -233,8 +233,7 @@ Kubernetes (often abbreviated as K8s) is an open-source container orchestration 
 ---
 **36.Loki-**
 
-Loki is an open-source log aggregation system developed by Grafana Labs, designed to work seamlessly with the Grafana observability platform. It provides a way to collect, store, and query logs from various 
-sources, making it easier to analyze and troubleshoot issues within applications and infrastructure.
+Loki is an open-source infrastructure stack that combines linux,openstack ,kubernetesand other technologies to run cloud infrastructure. LOKI bridge the gap between traditional and cloud infrastructure.
 
 ---
 **37.Kivy-**
