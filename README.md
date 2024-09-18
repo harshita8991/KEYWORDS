@@ -261,6 +261,23 @@ In computing, a linker or link editor is a computer system program that takes on
 Computer architecture is the arrangement of the components that comprise a computer system and the engine at the core of the processes that drive its functioning.
 
 ---
+**42.Flutter**
 
+Flutter is an open source framework developed and supported by Google. Frontend and full-stack developers use Flutter to build an application's user interface (UI) for multiple platforms with a single codebase.
 
+---
+**43. Cryptocurrency-**
 
+A cryptocurrency, crypto-currency, or crypto is a digital currency designed to work as a medium of exchange through a computer network that is not reliant on any central authority, such as a government or bank, to uphold or maintain it. 
+
+---
+**44.Virtual currency-**
+
+Virtual currencies are digital representations of value that can exist only electronically. 
+
+---
+**45.RAFT-**
+
+Raft is a consensus algorithm designed as an alternative to the Paxos family of algorithms. 
+
+---
