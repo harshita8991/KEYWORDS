@@ -281,3 +281,28 @@ Virtual currencies are digital representations of value that can exist only elec
 Raft is a consensus algorithm designed as an alternative to the Paxos family of algorithms. 
 
 ---
+**46.PYTHON-**
+
+Python is commonly used for developing websites and software, task automation, data analysis, and data visualisation. 
+
+---
+**47.Protocol-**
+
+In networking, a protocol is a set of rules for formatting and processing data. 
+
+---
+**48.Github-**
+
+GitHub is a developer platform that allows developers to create, store, manage and share their code.
+
+---
+**49.ISP-**
+
+An Internet service provider is an organization that provides myriad services related to accessing, using, managing, or participating in the Internet.
+
+---
+**50.Cloud computing-**
+
+cloud computing is the delivery of computing services—including servers, storage, databases, networking, software, analytics, and intelligence—over the Internet (“the cloud”) to offer faster innovation, flexible resources, and economies of scale.
+
+---
